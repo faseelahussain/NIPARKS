@@ -1,0 +1,14 @@
+<script type="application/ld+json" class="yoast-schema-graph">
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://niparks.com/",
+    "url":"https://niparks.com/","name":"Home - Naduppuni Industrial Park","isPartOf":{"@id":"https://niparks.com/#website"},
+    "about":{"@id":"https://niparks.com/#organization"},
+    "primaryImageOfPage":{"@id":"https://niparks.com/#primaryimage"},
+    "image":{"@id":"https://niparks.com/#primaryimage"},
+    "thumbnailUrl":"http://niparks.com/wp-content/uploads/2023/01/how-we-work-01.jpg",
+    "datePublished":"2022-10-02T19:43:39+00:00","dateModified":"2023-05-23T06:12:49+00:00",
+    "breadcrumb":{"@id":"https://niparks.com/#breadcrumb"},
+    "inLanguage":"en-US","potentialAction":[{"@type":"ReadAction",
+        "target":["https://niparks.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://niparks.com/#primaryimage",
+            "url":"http://niparks.com/wp-content/uploads/2023/01/how-we-work-01.jpg",
+            "contentUrl":"http://niparks.com/wp-content/uploads/2023/01/how-we-work-01.jpg","width":500,"height":500},{"@type":"BreadcrumbList","@id":"https://niparks.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://niparks.com/#website","url":"https://niparks.com/","name":"Naduppuni Industrial Park","description":"","publisher":{"@id":"https://niparks.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://niparks.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://niparks.com/#organization","name":"Naduppuni Industrial Park","url":"https://niparks.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://niparks.com/#/schema/logo/image/","url":"http://niparks.com/wp-content/uploads/2023/03/logo-color.svg","contentUrl":"http://niparks.com/wp-content/uploads/2023/03/logo-color.svg","width":186,"height":55,"caption":"Naduppuni Industrial Park"},
+            "image":{"@id":"https://niparks.com/#/schema/logo/image/"}}]}</script>
